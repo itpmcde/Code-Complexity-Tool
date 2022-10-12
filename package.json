@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
-    "jspdf": "^1.5.3"
+    "jspdf": "^2.5.1"
   }
 }
